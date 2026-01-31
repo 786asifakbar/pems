@@ -1,0 +1,31 @@
+# Created by https://www.toptal.com/developers/gitignore/api/dotenv
+# Edit at https://www.toptal.com/developers/gitignore?templates=dotenv
+
+### dotenv ###
+.env
+
+# End of https://www.toptal.com/developers/gitignore/api/dotenv
+.env.test
+.env.production
+.env.local
+.env.test.local
+.env.production.local
+.env.staging
+.env.staging.local
+.env.dev
+.env.dev.local
+.env.qa
+.env.qa.local
+.env.demo
+.env.demo.local
+.env.ci
+.env.ci.local
+.env.e2e
+.env.e2e.local
+.env.integration
+.env.integration.local
+.env.mock
+.env.mock.local
+.env.backup
+.env.old
+.env.bak
